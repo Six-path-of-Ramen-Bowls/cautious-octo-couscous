@@ -1,2 +1,1 @@
-# cautious-octo-couscous
-This is a bugged game
+# Zombie-Shooter-stage-1
